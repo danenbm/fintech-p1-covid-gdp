@@ -1,1 +1,1 @@
-# fintech-p1-covid-gdp
+# COVID-19 Effects on Regional GDP
