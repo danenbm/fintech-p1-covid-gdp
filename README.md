@@ -1,6 +1,6 @@
 # COVID-19 Effects on Regional GDP
 
-This Jupyter Notebook provides an analysis of COVID on the Gross Domestic Product (GDP) of the 50 states and Washington, D.C..
+This Jupyter Notebook provides an analysis of COVID effects on the Gross Domestic Product (GDP) of the 50 states and Washington, D.C..
 
 Specifically, it provides:
 * An analysis of US State GDP data, including an interactive plot of GDP for each state in the US for the timeframe of Q1 2005 through Q1 2021.
@@ -11,7 +11,7 @@ Specifically, it provides:
 
 ## Technologies
 
-This analysis is a Jupyter lab notebook that makes use of the following Python libraries:
+This analysis is a Jupyter Notebook that makes use of the following Python libraries:
 * Bokeh
 * Pandas
 * Pathlib
@@ -24,14 +24,14 @@ This analysis is a Jupyter lab notebook that makes use of the following Python l
 ## Installation Guide
 
 To use this notebook:
-* Install Jupyter lab Version 2.3.1 and Python 3.7.
+* Install Jupyter Lab Version 2.3.1 and Python 3.7.
 * Install PyViz visualization package.
 * Install Plotly Express version 4.13.0.
 * Install hvPlot version 0.7.0 or later.
 * Install NodeJS version 12 or later.
 * Bokeh, Pandas, and Pathlib should already be included by the previous dependencies.  If not, install them.
 
-Open the notebook in Jupyter lab and you can rerun the analysis.
+Open the notebook in Jupyter Lab and you can rerun the analysis.
 
 ---
 
