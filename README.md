@@ -52,10 +52,10 @@ Here are examples of the interactive plots in this notebook:
 ---
 
 ## Contributors
-Allen Wong
-Christine Guo
-LaNaya Johnson
-Michael Danenberg
+* Allen Wong
+* Christine Guo
+* LaNaya Johnson
+* Michael Danenberg
 
 ---
 
