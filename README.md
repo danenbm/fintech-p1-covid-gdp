@@ -1,6 +1,6 @@
 # COVID-19 Effects on Regional GDP
 
-This Jupyter notebook provides an analysis of COVID on the Gross Domestic Product (GDP) of the 50 states and Washington, D.C.
+This Jupyter Notebook provides an analysis of COVID on the Gross Domestic Product (GDP) of the 50 states and Washington, D.C..
 
 Specifically, it provides:
 * An analysis of US State GDP data, including an interactive plot of GDP for each state in the US for the timeframe of Q1 2005 through Q1 2021.
@@ -52,9 +52,13 @@ Here are examples of the interactive plots in this notebook:
 ---
 
 ## Contributors
+
 * Allen Wong
-* Christine Guo
-* LaNaya Johnson
+
+* Christine Guo 
+
+* LaNaya Johnson 
+
 * Michael Danenberg
 
 ---
