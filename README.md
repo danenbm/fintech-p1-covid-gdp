@@ -9,6 +9,13 @@ Specifically, it provides:
 
 ---
 
+## Data Sources
+
+COVID dataset - [CDC](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
+GPD dataset - [Bureau of Economic Analysis](https://apps.bea.gov/regional/downloadzip.cfm)
+
+---
+
 ## Technologies
 
 This analysis is a Jupyter Notebook that makes use of the following Python libraries:
